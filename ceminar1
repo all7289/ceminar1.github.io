@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+ 	<title> my site </title>
+	<link type="text/css" rel="stylesheet" href=".\style3.css"/>
+</head>
+<body>
+<div id="web">
+	<div id="logo">
+			<p align ="center">Логотип</p>
+			<p align ="center">80%</p>
+	</div>
+	<div id="menu">
+			<p align ="center">меню</p>
+			<p align ="center">20%</p>
+	</div>
+	<div id="content">
+			<p align ="center">контент</p>
+			<p align ="center">40%</p>
+	</div>
+	<div id="ad">
+			<p align ="center">реклама</p>
+			<p align ="center">20%</p>
+	</div>
+	<div id="footer">
+			<p align ="center">футер 80%</p>
+	</div>
+</div>
+</body>
+</html>
